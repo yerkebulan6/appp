@@ -1,0 +1,75 @@
+{
+  "pages": [
+    {
+      "id": "login2",
+      "isDefault": false
+    },
+    {
+      "id": "123",
+      "isDefault": true
+    },
+    {
+      "id": "Submit new order",
+      "isDefault": false
+    },
+    {
+      "id": "Home Page",
+      "isDefault": false
+    },
+    {
+      "id": "Admin",
+      "isDefault": false
+    },
+    {
+      "id": "My orders",
+      "isDefault": false
+    },
+    {
+      "id": "profile test",
+      "isDefault": false
+    },
+    {
+      "id": "home",
+      "isDefault": false
+    },
+    {
+      "id": "123 Copy",
+      "isDefault": false
+    }
+  ],
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "unpublishedApplicationDetail": {
+    "appPositioning": {
+      "type": "AUTO"
+    }
+  },
+  "publishedApplicationDetail": {
+    "appPositioning": {
+      "type": "AUTO"
+    }
+  },
+  "color": "#FBF4ED",
+  "icon": "mug",
+  "unpublishedAppLayout": {
+    "type": "DESKTOP"
+  },
+  "publishedAppLayout": {
+    "type": "DESKTOP"
+  },
+  "unpublishedCustomJSLibs": [
+    {
+      "uidString": "jsonwebtoken_/libraries/jsonwebtoken@8.5.1.js"
+    },
+    {
+      "uidString": "dcodeIO_https://cdn.jsdelivr.net/npm/bcryptjs@2.4.3/dist/bcrypt.min.js"
+    }
+  ],
+  "publishedCustomJSLibs": [],
+  "evaluationVersion": 2,
+  "applicationVersion": 2,
+  "collapseInvisibleWidgets": true,
+  "isManualUpdate": false,
+  "deleted": false
+}

@@ -1,0 +1,1 @@
+SELECT * FROM yerkebulan.appsmithusers WHERE email = '{{this.params.email}}'

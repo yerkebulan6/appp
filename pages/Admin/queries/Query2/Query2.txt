@@ -1,0 +1,1 @@
+SELECT city, COUNT(*) FROM yerkebulan.appsmithuserdata2 WHERE firstname= {{selectAgent.selectedOptionValue}} GROUP BY city;

@@ -1,0 +1,10 @@
+insert into teachers.user_certificate 
+(userid, name, level, place, date, image)
+VALUES(
+{{1}},
+{{'Yerko'}},
+{{Select2.selectedOptionValue}},
+{{Select5.selectedOptionValue}},
+{{DatePicker1.selectedDate}},
+{{FilePicker1.files}}
+);

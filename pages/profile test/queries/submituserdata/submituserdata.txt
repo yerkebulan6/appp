@@ -1,0 +1,11 @@
+INSERT INTO yerkebulan.teachersdata5
+  (firstname, gender, phone, lastname, city, age)
+VALUES
+  (
+    {{ Input1.text }},
+    {{ Input2.text }},
+		{{ Input3.text }},
+    {{ Input4.text }},
+		{{ Input5.text }},
+    {{ Input6.text }}
+  );

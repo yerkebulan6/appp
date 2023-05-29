@@ -1,0 +1,11 @@
+insert into teachers.user_data 
+(userid, firstname, lastname, city, gender, age, phone)
+VALUES(
+{{}},
+{{Input1.text}},
+{{Input2.text}},
+{{Input3.text}},
+{{Select1.selectedOptionValue}},
+{{Input4.text}},
+{{PhoneInput1.text}}
+);
