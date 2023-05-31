@@ -155,7 +155,7 @@
                   "widgetName": "Canvas2CopyCopyCopyCopy",
                   "displayName": "Canvas",
                   "topRow": 0,
-                  "bottomRow": 530.6250000000001,
+                  "bottomRow": 520.6250000000001,
                   "parentRowSpace": 1,
                   "type": "CANVAS_WIDGET",
                   "canExtend": false,
@@ -1254,7 +1254,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 25.38111111111111,
+                      "leftColumn": 25.424944812362032,
                       "dynamicBindingPathList": [
                         {
                           "key": "borderRadius"
@@ -1264,7 +1264,7 @@
                       "isDisabled": false,
                       "key": "thwgvy1bme",
                       "isDeprecated": false,
-                      "rightColumn": 38.61888888888889,
+                      "rightColumn": 38.57505518763797,
                       "isDefaultClickDisabled": true,
                       "widgetId": "fw9zrg6rr7",
                       "minWidth": 120,
@@ -1589,7 +1589,7 @@
                       "flexVerticalAlignment": "end",
                       "image": "",
                       "isDeprecated": false,
-                      "rightColumn": 19.91111111111111,
+                      "rightColumn": 19.779249448123622,
                       "objectFit": "contain",
                       "widgetId": "9a5j5el9qe",
                       "isVisible": true,
@@ -1628,7 +1628,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 19.91111111111111,
+                      "leftColumn": 19.779249448123622,
                       "dynamicBindingPathList": [
                         {
                           "key": "borderRadius"
@@ -1639,7 +1639,7 @@
                       "key": "ea7apjwric",
                       "flexVerticalAlignment": "end",
                       "isDeprecated": false,
-                      "rightColumn": 28.444444444444443,
+                      "rightColumn": 28.312582781456953,
                       "isDefaultClickDisabled": true,
                       "widgetId": "slk6q8d7ay",
                       "minWidth": 120,
@@ -1655,71 +1655,6 @@
                       "buttonVariant": "PRIMARY",
                       "placement": "START",
                       "alignment": "start"
-                    },
-                    {
-                      "mobileBottomRow": 8,
-                      "widgetName": "Text5",
-                      "displayName": "Text",
-                      "iconSVG": "/static/media/icon.97c59b523e6f70ba6f40a10fc2c7c5b5.svg",
-                      "searchTags": [
-                        "typography",
-                        "paragraph",
-                        "label"
-                      ],
-                      "topRow": 5.2,
-                      "bottomRow": 9.2,
-                      "parentRowSpace": 10,
-                      "type": "TEXT_WIDGET",
-                      "hideCard": false,
-                      "mobileRightColumn": 64,
-                      "animateLoading": true,
-                      "overflow": "NONE",
-                      "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
-                      "parentColumnSpace": 14.0625,
-                      "dynamicTriggerPathList": [],
-                      "leftColumn": 28.444444444444443,
-                      "dynamicBindingPathList": [
-                        {
-                          "key": "truncateButtonColor"
-                        },
-                        {
-                          "key": "fontFamily"
-                        },
-                        {
-                          "key": "borderRadius"
-                        },
-                        {
-                          "key": "text"
-                        },
-                        {
-                          "key": "textColor"
-                        }
-                      ],
-                      "shouldTruncate": false,
-                      "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
-                      "text": "{{JSObject2.myFunction.data}}",
-                      "key": "lclc2nqikv",
-                      "isDeprecated": false,
-                      "rightColumn": 64,
-                      "textAlign": "LEFT",
-                      "dynamicHeight": "AUTO_HEIGHT",
-                      "widgetId": "rd00vmzxj4",
-                      "minWidth": 450,
-                      "isVisible": true,
-                      "fontStyle": "BOLD",
-                      "textColor": "{{appsmith.theme.colors.backgroundColor}}",
-                      "version": 1,
-                      "parentId": "6d9d2rp6e3",
-                      "renderMode": "CANVAS",
-                      "isLoading": false,
-                      "mobileTopRow": 4,
-                      "responsiveBehavior": "fill",
-                      "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-                      "mobileLeftColumn": 0,
-                      "maxDynamicHeight": 9000,
-                      "fontSize": "1rem",
-                      "alignment": "end",
-                      "minDynamicHeight": 4
                     },
                     {
                       "mobileWidthInPercentage": 0.0678955078125,
@@ -1748,7 +1683,7 @@
                       "flexVerticalAlignment": "end",
                       "image": "",
                       "isDeprecated": false,
-                      "rightColumn": 19.91111111111111,
+                      "rightColumn": 19.779249448123622,
                       "objectFit": "contain",
                       "widgetId": "2xwvut9mw2",
                       "isVisible": true,
@@ -1776,7 +1711,7 @@
                         "submit"
                       ],
                       "topRow": 10.4,
-                      "bottomRow": 14.398437500000002,
+                      "bottomRow": 14.3984375,
                       "parentRowSpace": 10,
                       "type": "BUTTON_WIDGET",
                       "hideCard": false,
@@ -1787,7 +1722,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 19.91111111111111,
+                      "leftColumn": 19.779249448123622,
                       "dynamicBindingPathList": [
                         {
                           "key": "borderRadius"
@@ -1798,7 +1733,7 @@
                       "key": "ea7apjwric",
                       "flexVerticalAlignment": "end",
                       "isDeprecated": false,
-                      "rightColumn": 30.632222222222225,
+                      "rightColumn": 30.429359823399558,
                       "isDefaultClickDisabled": true,
                       "widgetId": "qkiasf7rl0",
                       "minWidth": 120,
@@ -1842,7 +1777,7 @@
                       "flexVerticalAlignment": "end",
                       "image": "",
                       "isDeprecated": false,
-                      "rightColumn": 19.91111111111111,
+                      "rightColumn": 19.779249448123622,
                       "objectFit": "contain",
                       "widgetId": "59grj3n33x",
                       "isVisible": true,
@@ -1881,7 +1816,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 19.91111111111111,
+                      "leftColumn": 19.779249448123622,
                       "dynamicBindingPathList": [
                         {
                           "key": "borderRadius"
@@ -1892,7 +1827,7 @@
                       "key": "ea7apjwric",
                       "flexVerticalAlignment": "end",
                       "isDeprecated": false,
-                      "rightColumn": 29.275555555555556,
+                      "rightColumn": 29.143693892568066,
                       "isDefaultClickDisabled": true,
                       "widgetId": "2nlxt6k6jq",
                       "minWidth": 120,
@@ -1936,7 +1871,7 @@
                       "flexVerticalAlignment": "end",
                       "image": "",
                       "isDeprecated": false,
-                      "rightColumn": 19.91111111111111,
+                      "rightColumn": 19.779249448123622,
                       "objectFit": "contain",
                       "widgetId": "33ss5ypjzq",
                       "isVisible": true,
@@ -1975,7 +1910,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 19.91111111111111,
+                      "leftColumn": 19.779249448123622,
                       "dynamicBindingPathList": [
                         {
                           "key": "borderRadius"
@@ -1986,7 +1921,7 @@
                       "key": "ea7apjwric",
                       "flexVerticalAlignment": "end",
                       "isDeprecated": false,
-                      "rightColumn": 28.444444444444443,
+                      "rightColumn": 28.312582781456953,
                       "isDefaultClickDisabled": true,
                       "widgetId": "bss2hu6wc2",
                       "minWidth": 120,
@@ -2037,10 +1972,6 @@
                         {
                           "id": "slk6q8d7ay",
                           "align": "start"
-                        },
-                        {
-                          "id": "rd00vmzxj4",
-                          "align": "end"
                         }
                       ]
                     },

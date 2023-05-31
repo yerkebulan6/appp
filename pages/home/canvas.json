@@ -21,14 +21,12 @@
           "canExtend": true,
           "version": 79,
           "minHeight": 690,
-          "useAutoLayout": true,
+          "useAutoLayout": false,
           "parentColumnSpace": 1,
-          "responsiveBehavior": "fill",
           "dynamicBindingPathList": [],
           "leftColumn": 0,
           "children": [],
-          "positioning": "vertical",
-          "flexLayers": []
+          "positioning": "fixed"
         },
         "layoutOnLoadActions": [],
         "layoutOnLoadActionErrors": [],
