@@ -2752,16 +2752,6 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "123_certificatedata",
-              "name": "certificatedata",
-              "confirmBeforeExecute": false,
-              "pluginType": "DB",
-              "jsonPathKeys": [],
-              "timeoutInMillisecond": 10000
-            }
-          ],
-          [
-            {
               "id": "123_JSObject2.myFunction",
               "name": "JSObject2.myFunction",
               "collectionId": "123_JSObject2",
@@ -2782,6 +2772,16 @@
               "jsonPathKeys": [
                 "async () => {\n  try {\n    const {email} = jsonwebtoken.verify(appsmith.store.token, 'secret');\n    return email;\n  } catch (error) {}\n}"
               ],
+              "timeoutInMillisecond": 10000
+            }
+          ],
+          [
+            {
+              "id": "123_certificatedata",
+              "name": "certificatedata",
+              "confirmBeforeExecute": false,
+              "pluginType": "DB",
+              "jsonPathKeys": [],
               "timeoutInMillisecond": 10000
             }
           ]
