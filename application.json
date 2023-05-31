@@ -2,11 +2,11 @@
   "pages": [
     {
       "id": "login2",
-      "isDefault": false
+      "isDefault": true
     },
     {
       "id": "123",
-      "isDefault": true
+      "isDefault": false
     },
     {
       "id": "Submit new order",

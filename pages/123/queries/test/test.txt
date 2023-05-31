@@ -1,3 +1,1 @@
-UPDATE teachers.users
-  SET userid = '{{}}''
-  WHERE id = {{ usersTable.selectedRow.id }};
+select * from teachers.users;

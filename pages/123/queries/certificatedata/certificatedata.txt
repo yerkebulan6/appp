@@ -1,1 +1,1 @@
-SELECT * FROM teachers.users WHERE LOWER(email) = {{appsmith.user.email.toLowerCase()}};
+SELECT * FROM teachers.certificatedata;

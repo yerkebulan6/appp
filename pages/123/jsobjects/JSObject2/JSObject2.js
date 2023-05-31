@@ -26,4 +26,11 @@ export default {
 		catch(error){			
 		}
 	},
+	myFunction: async () => {
+		const query = "SELECT * FROM teachers.users where id = '{{this.params.id}}'"; 
+const result = await test.run(query);
+const value = result[0].id; "id" 
+
+return value;
+}
 }

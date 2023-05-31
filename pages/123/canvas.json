@@ -61,7 +61,7 @@
                   "key": "menuItems.menuItem1.onClick"
                 }
               ],
-              "leftColumn": 57.857142857142854,
+              "leftColumn": 55.63398692810458,
               "dynamicBindingPathList": [
                 {
                   "key": "menuColor"
@@ -106,7 +106,7 @@
                   "isVisible": true,
                   "isDisabled": false,
                   "index": 2,
-                  "onClick": "{{JSObject1.logOut();}}",
+                  "onClick": "{{JSObject2.logOut();}}",
                   "iconName": "log-out"
                 }
               },
@@ -155,7 +155,7 @@
                   "widgetName": "Canvas2CopyCopyCopyCopy",
                   "displayName": "Canvas",
                   "topRow": 0,
-                  "bottomRow": 520.6250000000001,
+                  "bottomRow": 530.6250000000001,
                   "parentRowSpace": 1,
                   "type": "CANVAS_WIDGET",
                   "canExtend": false,
@@ -239,7 +239,7 @@
                         }
                       ],
                       "truncateButtonColor": "#FFC13D",
-                      "text": "ID: {{JSObject2.runid.data}}",
+                      "text": "ID: {{JSObject2.myFunction.data}}",
                       "key": "czyq0gtp0e",
                       "flexVerticalAlignment": "end",
                       "labelTextSize": "0.875rem",
@@ -1242,7 +1242,7 @@
                         "submit"
                       ],
                       "topRow": 47.06250000000001,
-                      "bottomRow": 51.06250000000001,
+                      "bottomRow": 51.06093750000001,
                       "parentRowSpace": 10,
                       "type": "BUTTON_WIDGET",
                       "hideCard": false,
@@ -1254,7 +1254,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 27.838574423480082,
+                      "leftColumn": 25.38111111111111,
                       "dynamicBindingPathList": [
                         {
                           "key": "borderRadius"
@@ -1264,7 +1264,7 @@
                       "isDisabled": false,
                       "key": "thwgvy1bme",
                       "isDeprecated": false,
-                      "rightColumn": 36.16142557651992,
+                      "rightColumn": 38.61888888888889,
                       "isDefaultClickDisabled": true,
                       "widgetId": "fw9zrg6rr7",
                       "minWidth": 120,
@@ -1304,7 +1304,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 58.63312368972746,
+                      "leftColumn": 55.46666666666667,
                       "dynamicBindingPathList": [],
                       "text": "Update",
                       "isDisabled": false,
@@ -1589,7 +1589,7 @@
                       "flexVerticalAlignment": "end",
                       "image": "",
                       "isDeprecated": false,
-                      "rightColumn": 12.52271139063592,
+                      "rightColumn": 19.91111111111111,
                       "objectFit": "contain",
                       "widgetId": "9a5j5el9qe",
                       "isVisible": true,
@@ -1628,7 +1628,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 12.52271139063592,
+                      "leftColumn": 19.91111111111111,
                       "dynamicBindingPathList": [
                         {
                           "key": "borderRadius"
@@ -1639,7 +1639,7 @@
                       "key": "ea7apjwric",
                       "flexVerticalAlignment": "end",
                       "isDeprecated": false,
-                      "rightColumn": 17.889587700908457,
+                      "rightColumn": 28.444444444444443,
                       "isDefaultClickDisabled": true,
                       "widgetId": "slk6q8d7ay",
                       "minWidth": 120,
@@ -1655,6 +1655,71 @@
                       "buttonVariant": "PRIMARY",
                       "placement": "START",
                       "alignment": "start"
+                    },
+                    {
+                      "mobileBottomRow": 8,
+                      "widgetName": "Text5",
+                      "displayName": "Text",
+                      "iconSVG": "/static/media/icon.97c59b523e6f70ba6f40a10fc2c7c5b5.svg",
+                      "searchTags": [
+                        "typography",
+                        "paragraph",
+                        "label"
+                      ],
+                      "topRow": 5.2,
+                      "bottomRow": 9.2,
+                      "parentRowSpace": 10,
+                      "type": "TEXT_WIDGET",
+                      "hideCard": false,
+                      "mobileRightColumn": 64,
+                      "animateLoading": true,
+                      "overflow": "NONE",
+                      "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
+                      "parentColumnSpace": 14.0625,
+                      "dynamicTriggerPathList": [],
+                      "leftColumn": 28.444444444444443,
+                      "dynamicBindingPathList": [
+                        {
+                          "key": "truncateButtonColor"
+                        },
+                        {
+                          "key": "fontFamily"
+                        },
+                        {
+                          "key": "borderRadius"
+                        },
+                        {
+                          "key": "text"
+                        },
+                        {
+                          "key": "textColor"
+                        }
+                      ],
+                      "shouldTruncate": false,
+                      "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
+                      "text": "{{JSObject2.myFunction.data}}",
+                      "key": "lclc2nqikv",
+                      "isDeprecated": false,
+                      "rightColumn": 64,
+                      "textAlign": "LEFT",
+                      "dynamicHeight": "AUTO_HEIGHT",
+                      "widgetId": "rd00vmzxj4",
+                      "minWidth": 450,
+                      "isVisible": true,
+                      "fontStyle": "BOLD",
+                      "textColor": "{{appsmith.theme.colors.backgroundColor}}",
+                      "version": 1,
+                      "parentId": "6d9d2rp6e3",
+                      "renderMode": "CANVAS",
+                      "isLoading": false,
+                      "mobileTopRow": 4,
+                      "responsiveBehavior": "fill",
+                      "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+                      "mobileLeftColumn": 0,
+                      "maxDynamicHeight": 9000,
+                      "fontSize": "1rem",
+                      "alignment": "end",
+                      "minDynamicHeight": 4
                     },
                     {
                       "mobileWidthInPercentage": 0.0678955078125,
@@ -1683,7 +1748,7 @@
                       "flexVerticalAlignment": "end",
                       "image": "",
                       "isDeprecated": false,
-                      "rightColumn": 12.52271139063592,
+                      "rightColumn": 19.91111111111111,
                       "objectFit": "contain",
                       "widgetId": "2xwvut9mw2",
                       "isVisible": true,
@@ -1711,7 +1776,7 @@
                         "submit"
                       ],
                       "topRow": 10.4,
-                      "bottomRow": 14.4,
+                      "bottomRow": 14.398437500000002,
                       "parentRowSpace": 10,
                       "type": "BUTTON_WIDGET",
                       "hideCard": false,
@@ -1722,7 +1787,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 12.52271139063592,
+                      "leftColumn": 19.91111111111111,
                       "dynamicBindingPathList": [
                         {
                           "key": "borderRadius"
@@ -1733,7 +1798,7 @@
                       "key": "ea7apjwric",
                       "flexVerticalAlignment": "end",
                       "isDeprecated": false,
-                      "rightColumn": 19.26345213137666,
+                      "rightColumn": 30.632222222222225,
                       "isDefaultClickDisabled": true,
                       "widgetId": "qkiasf7rl0",
                       "minWidth": 120,
@@ -1777,7 +1842,7 @@
                       "flexVerticalAlignment": "end",
                       "image": "",
                       "isDeprecated": false,
-                      "rightColumn": 12.52271139063592,
+                      "rightColumn": 19.91111111111111,
                       "objectFit": "contain",
                       "widgetId": "59grj3n33x",
                       "isVisible": true,
@@ -1805,7 +1870,7 @@
                         "submit"
                       ],
                       "topRow": 15.600000000000001,
-                      "bottomRow": 19.6,
+                      "bottomRow": 19.598437500000003,
                       "parentRowSpace": 10,
                       "type": "BUTTON_WIDGET",
                       "hideCard": false,
@@ -1816,7 +1881,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 12.52271139063592,
+                      "leftColumn": 19.91111111111111,
                       "dynamicBindingPathList": [
                         {
                           "key": "borderRadius"
@@ -1827,7 +1892,7 @@
                       "key": "ea7apjwric",
                       "flexVerticalAlignment": "end",
                       "isDeprecated": false,
-                      "rightColumn": 18.41090146750524,
+                      "rightColumn": 29.275555555555556,
                       "isDefaultClickDisabled": true,
                       "widgetId": "2nlxt6k6jq",
                       "minWidth": 120,
@@ -1871,7 +1936,7 @@
                       "flexVerticalAlignment": "end",
                       "image": "",
                       "isDeprecated": false,
-                      "rightColumn": 12.52271139063592,
+                      "rightColumn": 19.91111111111111,
                       "objectFit": "contain",
                       "widgetId": "33ss5ypjzq",
                       "isVisible": true,
@@ -1910,7 +1975,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 12.52271139063592,
+                      "leftColumn": 19.91111111111111,
                       "dynamicBindingPathList": [
                         {
                           "key": "borderRadius"
@@ -1921,7 +1986,7 @@
                       "key": "ea7apjwric",
                       "flexVerticalAlignment": "end",
                       "isDeprecated": false,
-                      "rightColumn": 17.889587700908457,
+                      "rightColumn": 28.444444444444443,
                       "isDefaultClickDisabled": true,
                       "widgetId": "bss2hu6wc2",
                       "minWidth": 120,
@@ -1972,6 +2037,10 @@
                         {
                           "id": "slk6q8d7ay",
                           "align": "start"
+                        },
+                        {
+                          "id": "rd00vmzxj4",
+                          "align": "end"
                         }
                       ]
                     },
@@ -2069,7 +2138,7 @@
                   "widgetName": "Canvas2",
                   "displayName": "Canvas",
                   "topRow": 0,
-                  "bottomRow": 398.00000000000006,
+                  "bottomRow": 400,
                   "parentRowSpace": 1,
                   "type": "CANVAS_WIDGET",
                   "canExtend": true,
@@ -2683,6 +2752,28 @@
         "layoutOnLoadActions": [
           [
             {
+              "id": "123_certificatedata",
+              "name": "certificatedata",
+              "confirmBeforeExecute": false,
+              "pluginType": "DB",
+              "jsonPathKeys": [],
+              "timeoutInMillisecond": 10000
+            }
+          ],
+          [
+            {
+              "id": "123_JSObject2.myFunction",
+              "name": "JSObject2.myFunction",
+              "collectionId": "123_JSObject2",
+              "confirmBeforeExecute": false,
+              "pluginType": "JS",
+              "jsonPathKeys": [
+                "async () => {\n  const query = \"SELECT * FROM teachers.users where id = '{{JSObject2.params.id}}'\";\n  const result = await test.run(query);\n  const value = result[0].id;\n  \"id\";\n  return value;\n}",
+                "JSObject2.params.id"
+              ],
+              "timeoutInMillisecond": 10000
+            },
+            {
               "id": "123_JSObject2.run",
               "name": "JSObject2.run",
               "collectionId": "123_JSObject2",
@@ -2690,29 +2781,6 @@
               "pluginType": "JS",
               "jsonPathKeys": [
                 "async () => {\n  try {\n    const {email} = jsonwebtoken.verify(appsmith.store.token, 'secret');\n    return email;\n  } catch (error) {}\n}"
-              ],
-              "timeoutInMillisecond": 10000
-            },
-            {
-              "id": "123_JSObject2.runid",
-              "name": "JSObject2.runid",
-              "collectionId": "123_JSObject2",
-              "confirmBeforeExecute": false,
-              "pluginType": "JS",
-              "jsonPathKeys": [
-                "async () => {\n  try {\n    const {email} = jsonwebtoken.verify(appsmith.store.token, 'secret');\n    return Query1.run();\n  } catch (error) {}\n}"
-              ],
-              "timeoutInMillisecond": 10000
-            }
-          ],
-          [
-            {
-              "id": "123_certificatedata",
-              "name": "certificatedata",
-              "confirmBeforeExecute": false,
-              "pluginType": "DB",
-              "jsonPathKeys": [
-                "appsmith.user.email.toLowerCase()"
               ],
               "timeoutInMillisecond": 10000
             }
