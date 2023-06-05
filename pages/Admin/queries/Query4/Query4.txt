@@ -1,1 +1,0 @@
-select * from yerkebulan.appsmithuserdata2 where firstname = {{selectAgent.selectedOptionValue}};

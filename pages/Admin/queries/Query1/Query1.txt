@@ -1,1 +1,0 @@
-SELECT city, COUNT(*) FROM yerkebulan.appsmithuserdata2 GROUP BY city;

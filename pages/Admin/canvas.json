@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 1622,
+          "bottomRow": 1617.9843749999998,
           "containerStyle": "none",
           "snapRows": 66,
           "parentRowSpace": 1,
@@ -46,7 +46,7 @@
               "displayName": "Menu Button",
               "iconSVG": "/static/media/icon.0341d17d67020c8bfc560cc5928af2a7.svg",
               "topRow": 0,
-              "bottomRow": 4,
+              "bottomRow": 3.9984375,
               "parentRowSpace": 10,
               "type": "MENU_BUTTON_WIDGET",
               "hideCard": false,
@@ -61,7 +61,7 @@
                   "key": "menuItems.menuItem1.onClick"
                 }
               ],
-              "leftColumn": 56.709254709254715,
+              "leftColumn": 55.63398692810457,
               "dynamicBindingPathList": [
                 {
                   "key": "menuColor"
@@ -138,8 +138,8 @@
                 "parent",
                 "group"
               ],
-              "topRow": 5.2,
-              "bottomRow": 37.2,
+              "topRow": 5.1984375,
+              "bottomRow": 37.1984375,
               "parentRowSpace": 10,
               "type": "CONTAINER_WIDGET",
               "hideCard": false,
@@ -155,7 +155,7 @@
                   "widgetName": "Canvas1",
                   "displayName": "Canvas",
                   "topRow": 0,
-                  "bottomRow": 320,
+                  "bottomRow": 319.99999999999994,
                   "parentRowSpace": 1,
                   "type": "CANVAS_WIDGET",
                   "canExtend": false,
@@ -233,7 +233,7 @@
                       "flexVerticalAlignment": "end",
                       "image": "",
                       "isDeprecated": false,
-                      "rightColumn": 14.89609310058188,
+                      "rightColumn": 19.91111111111111,
                       "objectFit": "contain",
                       "widgetId": "ynyek2ui5b",
                       "isVisible": true,
@@ -261,7 +261,7 @@
                         "submit"
                       ],
                       "topRow": 5.2,
-                      "bottomRow": 9.2,
+                      "bottomRow": 9.1984375,
                       "parentRowSpace": 10,
                       "type": "BUTTON_WIDGET",
                       "hideCard": false,
@@ -272,7 +272,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 14.89609310058188,
+                      "leftColumn": 19.91111111111111,
                       "dynamicBindingPathList": [
                         {
                           "key": "borderRadius"
@@ -283,7 +283,7 @@
                       "key": "ea7apjwric",
                       "flexVerticalAlignment": "end",
                       "isDeprecated": false,
-                      "rightColumn": 21.280133000831256,
+                      "rightColumn": 28.444444444444443,
                       "isDefaultClickDisabled": true,
                       "widgetId": "us1rl2o7qy",
                       "minWidth": 120,
@@ -327,7 +327,7 @@
                       "flexVerticalAlignment": "end",
                       "image": "",
                       "isDeprecated": false,
-                      "rightColumn": 14.89609310058188,
+                      "rightColumn": 19.91111111111111,
                       "objectFit": "contain",
                       "widgetId": "z2rj62mi7h",
                       "isVisible": true,
@@ -355,7 +355,7 @@
                         "submit"
                       ],
                       "topRow": 10.4,
-                      "bottomRow": 14.4,
+                      "bottomRow": 14.3984375,
                       "parentRowSpace": 10,
                       "type": "BUTTON_WIDGET",
                       "hideCard": false,
@@ -366,7 +366,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 14.89609310058188,
+                      "leftColumn": 19.91111111111111,
                       "dynamicBindingPathList": [
                         {
                           "key": "borderRadius"
@@ -377,7 +377,7 @@
                       "key": "ea7apjwric",
                       "flexVerticalAlignment": "end",
                       "isDeprecated": false,
-                      "rightColumn": 22.877069113815956,
+                      "rightColumn": 30.632222222222225,
                       "isDefaultClickDisabled": true,
                       "widgetId": "exs2k6maug",
                       "minWidth": 120,
@@ -421,7 +421,7 @@
                       "flexVerticalAlignment": "end",
                       "image": "",
                       "isDeprecated": false,
-                      "rightColumn": 14.89609310058188,
+                      "rightColumn": 19.91111111111111,
                       "objectFit": "contain",
                       "widgetId": "b9qc3b3ueh",
                       "isVisible": true,
@@ -449,7 +449,7 @@
                         "submit"
                       ],
                       "topRow": 15.600000000000001,
-                      "bottomRow": 19.6,
+                      "bottomRow": 19.598437500000003,
                       "parentRowSpace": 10,
                       "type": "BUTTON_WIDGET",
                       "hideCard": false,
@@ -460,7 +460,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 14.89609310058188,
+                      "leftColumn": 19.91111111111111,
                       "dynamicBindingPathList": [
                         {
                           "key": "borderRadius"
@@ -471,7 +471,7 @@
                       "key": "ea7apjwric",
                       "flexVerticalAlignment": "end",
                       "isDeprecated": false,
-                      "rightColumn": 21.867970685362693,
+                      "rightColumn": 29.275555555555556,
                       "isDefaultClickDisabled": true,
                       "widgetId": "7qi044xx0w",
                       "minWidth": 120,
@@ -515,7 +515,7 @@
                       "flexVerticalAlignment": "end",
                       "image": "",
                       "isDeprecated": false,
-                      "rightColumn": 14.89609310058188,
+                      "rightColumn": 19.91111111111111,
                       "objectFit": "contain",
                       "widgetId": "3hphbu1n4x",
                       "isVisible": true,
@@ -543,7 +543,7 @@
                         "submit"
                       ],
                       "topRow": 20.8,
-                      "bottomRow": 24.8,
+                      "bottomRow": 24.798437500000002,
                       "parentRowSpace": 10,
                       "type": "BUTTON_WIDGET",
                       "hideCard": false,
@@ -554,7 +554,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 14.89609310058188,
+                      "leftColumn": 19.91111111111111,
                       "dynamicBindingPathList": [
                         {
                           "key": "borderRadius"
@@ -565,7 +565,7 @@
                       "key": "ea7apjwric",
                       "flexVerticalAlignment": "end",
                       "isDeprecated": false,
-                      "rightColumn": 21.280133000831256,
+                      "rightColumn": 28.444444444444443,
                       "isDefaultClickDisabled": true,
                       "widgetId": "jspaw0xf26",
                       "minWidth": 120,
@@ -609,7 +609,7 @@
                       "flexVerticalAlignment": "end",
                       "image": "",
                       "isDeprecated": false,
-                      "rightColumn": 14.89609310058188,
+                      "rightColumn": 19.91111111111111,
                       "objectFit": "contain",
                       "widgetId": "ty8pq3qxg9",
                       "isVisible": true,
@@ -637,7 +637,7 @@
                         "submit"
                       ],
                       "topRow": 26,
-                      "bottomRow": 30,
+                      "bottomRow": 29.9984375,
                       "parentRowSpace": 10,
                       "type": "BUTTON_WIDGET",
                       "hideCard": false,
@@ -648,7 +648,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 14.89609310058188,
+                      "leftColumn": 19.91111111111111,
                       "dynamicBindingPathList": [
                         {
                           "key": "borderRadius"
@@ -659,7 +659,7 @@
                       "key": "ea7apjwric",
                       "flexVerticalAlignment": "end",
                       "isDeprecated": false,
-                      "rightColumn": 21.280133000831256,
+                      "rightColumn": 28.444444444444443,
                       "isDefaultClickDisabled": true,
                       "widgetId": "7ydvhjexb4",
                       "minWidth": 120,
@@ -767,7 +767,7 @@
               "borderWidth": "1",
               "key": "7jawjh2cqc",
               "flexVerticalAlignment": "start",
-              "backgroundColor": "#324479",
+              "backgroundColor": "#2e3d49",
               "isDeprecated": false,
               "rightColumn": 64,
               "dynamicHeight": "AUTO_HEIGHT",
@@ -794,8 +794,8 @@
                 "paragraph",
                 "label"
               ],
-              "topRow": 43.60000000000001,
-              "bottomRow": 47.60000000000001,
+              "topRow": 43.598437499999996,
+              "bottomRow": 47.598437499999996,
               "parentRowSpace": 10,
               "type": "TEXT_WIDGET",
               "hideCard": false,
@@ -847,8 +847,8 @@
               ],
               "displayName": "Text",
               "iconSVG": "/static/media/icon.97c59b52.svg",
-              "topRow": 38.400000000000006,
-              "bottomRow": 42.400000000000006,
+              "topRow": 38.39843749999999,
+              "bottomRow": 42.39843749999999,
               "parentRowSpace": 10,
               "type": "TEXT_WIDGET",
               "hideCard": false,
@@ -895,8 +895,8 @@
                 "parent",
                 "group"
               ],
-              "topRow": 48.80000000000001,
-              "bottomRow": 66.60000000000001,
+              "topRow": 48.7984375,
+              "bottomRow": 66.1984375,
               "parentRowSpace": 10,
               "type": "CONTAINER_WIDGET",
               "hideCard": false,
@@ -911,7 +911,7 @@
                   "widgetName": "Canvas2Copy",
                   "displayName": "Canvas",
                   "topRow": 0,
-                  "bottomRow": 178,
+                  "bottomRow": 174,
                   "parentRowSpace": 1,
                   "type": "CANVAS_WIDGET",
                   "canExtend": false,
@@ -949,7 +949,7 @@
                       "flexVerticalAlignment": "end",
                       "image": "",
                       "isDeprecated": false,
-                      "rightColumn": 30.244725738396625,
+                      "rightColumn": 40.63492063492063,
                       "objectFit": "contain",
                       "widgetId": "sy10nyyznt",
                       "isVisible": true,
@@ -1023,7 +1023,7 @@
                         "label"
                       ],
                       "topRow": 11.4,
-                      "bottomRow": 15.8,
+                      "bottomRow": 15.4,
                       "parentRowSpace": 10,
                       "type": "TEXT_WIDGET",
                       "hideCard": false,
@@ -1142,8 +1142,8 @@
               ],
               "displayName": "Chart",
               "iconSVG": "/static/media/icon.6adbe31e.svg",
-              "topRow": 48.80000000000001,
-              "bottomRow": 80.8,
+              "topRow": 48.7984375,
+              "bottomRow": 80.79843749999998,
               "parentRowSpace": 10,
               "type": "CHART_WIDGET",
               "hideCard": false,
@@ -1221,8 +1221,8 @@
                 "parent",
                 "group"
               ],
-              "topRow": 82,
-              "bottomRow": 99.8,
+              "topRow": 81.99843749999998,
+              "bottomRow": 99.39843749999999,
               "parentRowSpace": 10,
               "type": "CONTAINER_WIDGET",
               "hideCard": false,
@@ -1237,7 +1237,7 @@
                   "widgetName": "Canvas2CopyCopy",
                   "displayName": "Canvas",
                   "topRow": 0,
-                  "bottomRow": 178,
+                  "bottomRow": 174.00000000000003,
                   "parentRowSpace": 1,
                   "type": "CANVAS_WIDGET",
                   "canExtend": false,
@@ -1275,7 +1275,7 @@
                       "flexVerticalAlignment": "end",
                       "image": "",
                       "isDeprecated": false,
-                      "rightColumn": 14.89609310058188,
+                      "rightColumn": 19.91111111111111,
                       "objectFit": "contain",
                       "widgetId": "qfjwgwe05v",
                       "isVisible": true,
@@ -1349,7 +1349,7 @@
                         "label"
                       ],
                       "topRow": 11.4,
-                      "bottomRow": 15.8,
+                      "bottomRow": 15.4,
                       "parentRowSpace": 10,
                       "type": "TEXT_WIDGET",
                       "hideCard": false,
@@ -1466,8 +1466,8 @@
                 "click",
                 "submit"
               ],
-              "topRow": 101,
-              "bottomRow": 105,
+              "topRow": 100.59843749999999,
+              "bottomRow": 104.59687499999998,
               "parentRowSpace": 10,
               "type": "ICON_BUTTON_WIDGET",
               "hideCard": false,
@@ -1487,7 +1487,7 @@
               "key": "qyezan59pn",
               "flexVerticalAlignment": "end",
               "isDeprecated": false,
-              "rightColumn": 2.0966420966420967,
+              "rightColumn": 2.7886710239651418,
               "iconName": "filter-list",
               "widgetId": "6cy6b27i6c",
               "minWidth": 50,
@@ -1513,8 +1513,8 @@
               "displayName": "Select",
               "iconSVG": "/static/media/icon.bd99caba.svg",
               "labelText": "",
-              "topRow": 101,
-              "bottomRow": 105,
+              "topRow": 100.59843749999999,
+              "bottomRow": 104.59843749999999,
               "parentRowSpace": 10,
               "type": "SELECT_WIDGET",
               "serverSideFiltering": false,
@@ -1527,7 +1527,7 @@
                   "key": "onOptionChange"
                 }
               ],
-              "leftColumn": 2.0966420966420967,
+              "leftColumn": 2.7886710239651418,
               "dynamicBindingPathList": [
                 {
                   "key": "options"
@@ -1565,7 +1565,7 @@
               "boxShadow": "none",
               "isVisibleDownload": false,
               "iconSVG": "/static/media/icon.db8a9cbd.svg",
-              "topRow": 106.2,
+              "topRow": 105.79843749999999,
               "isSortable": true,
               "onPageChange": "{{selectAgent.selectedOptionValue ? Query2.run() : Query1.run()}}",
               "type": "TABLE_WIDGET",
@@ -1669,7 +1669,7 @@
                 }
               ],
               "displayName": "Table",
-              "bottomRow": 162.2,
+              "bottomRow": 161.79843749999998,
               "parentRowSpace": 10,
               "defaultSelectedRow": "0",
               "hideCard": false,
@@ -1804,8 +1804,8 @@
               "isCanvas": true,
               "displayName": "Modal",
               "iconSVG": "/static/media/icon.4975978e.svg",
-              "topRow": 163.39999999999998,
-              "bottomRow": 251.2,
+              "topRow": 162.99843749999997,
+              "bottomRow": 250.79843749999998,
               "parentRowSpace": 10,
               "type": "MODAL_WIDGET",
               "hideCard": false,
@@ -4059,29 +4059,14 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Admin_agent_stats",
-              "name": "agent_stats",
+              "id": "Admin_JSObject1.run",
+              "name": "JSObject1.run",
+              "collectionId": "Admin_JSObject1",
               "confirmBeforeExecute": false,
-              "pluginType": "DB",
-              "jsonPathKeys": [],
-              "timeoutInMillisecond": 10000
-            },
-            {
-              "id": "Admin_select_work_ordersPage",
-              "name": "select_work_ordersPage",
-              "confirmBeforeExecute": false,
-              "pluginType": "DB",
-              "jsonPathKeys": [],
-              "timeoutInMillisecond": 10000
-            }
-          ],
-          [
-            {
-              "id": "Admin_Query1",
-              "name": "Query1",
-              "confirmBeforeExecute": false,
-              "pluginType": "DB",
-              "jsonPathKeys": [],
+              "pluginType": "JS",
+              "jsonPathKeys": [
+                "async () => {\n  try {\n    const {email} = jsonwebtoken.verify(appsmith.store.token, 'secret');\n    return email;\n  } catch (error) {}\n}"
+              ],
               "timeoutInMillisecond": 10000
             }
           ],
@@ -4116,105 +4101,6 @@
               "pluginType": "JS",
               "jsonPathKeys": [
                 "async () => {\n  let sum = 0;\n  if (selectAgent.selectedOptionValue.length == 0) sum = select_work_ordersPage.data.reduce((accumulator, object) => {\n    return accumulator + object.hours;\n  }, 0); else sum = select_work_ordersAgentPage.data.reduce((accumulator, object) => {\n    return accumulator + object.hours;\n  }, 0);\n  storeValue('hoursSum', sum);\n}"
-              ],
-              "timeoutInMillisecond": 10000
-            },
-            {
-              "id": "Admin_select_work_ordersAgent",
-              "name": "select_work_ordersAgent",
-              "confirmBeforeExecute": false,
-              "pluginType": "DB",
-              "jsonPathKeys": [
-                " workOrdersTable.pageSize ",
-                " (workOrdersTable.pageNo - 1) * workOrdersTable.pageSize ",
-                "selectAgent.selectedOptionValue"
-              ],
-              "timeoutInMillisecond": 10000
-            }
-          ],
-          [
-            {
-              "id": "Admin_JSObject1.run",
-              "name": "JSObject1.run",
-              "collectionId": "Admin_JSObject1",
-              "confirmBeforeExecute": false,
-              "pluginType": "JS",
-              "jsonPathKeys": [
-                "async () => {\n  try {\n    const {email} = jsonwebtoken.verify(appsmith.store.token, 'secret');\n    return email;\n  } catch (error) {}\n}"
-              ],
-              "timeoutInMillisecond": 10000
-            },
-            {
-              "id": "Admin_agent_statsAgent",
-              "name": "agent_statsAgent",
-              "confirmBeforeExecute": false,
-              "pluginType": "DB",
-              "jsonPathKeys": [
-                "selectAgent.selectedOptionValue"
-              ],
-              "timeoutInMillisecond": 10000
-            },
-            {
-              "id": "Admin_completed_orders",
-              "name": "completed_orders",
-              "confirmBeforeExecute": false,
-              "pluginType": "DB",
-              "jsonPathKeys": [
-                "selectAgent.selectedOptionValue"
-              ],
-              "timeoutInMillisecond": 10000
-            },
-            {
-              "id": "Admin_select_agent",
-              "name": "select_agent",
-              "confirmBeforeExecute": false,
-              "pluginType": "DB",
-              "jsonPathKeys": [],
-              "timeoutInMillisecond": 10000
-            },
-            {
-              "id": "Admin_select_work_ordersAgentPage",
-              "name": "select_work_ordersAgentPage",
-              "confirmBeforeExecute": false,
-              "pluginType": "DB",
-              "jsonPathKeys": [
-                "selectAgent.selectedOptionValue"
-              ],
-              "timeoutInMillisecond": 10000
-            }
-          ],
-          [
-            {
-              "id": "Admin_Query2",
-              "name": "Query2",
-              "confirmBeforeExecute": false,
-              "pluginType": "DB",
-              "jsonPathKeys": [
-                "selectAgent.selectedOptionValue"
-              ],
-              "timeoutInMillisecond": 10000
-            },
-            {
-              "id": "Admin_Query3",
-              "name": "Query3",
-              "confirmBeforeExecute": false,
-              "pluginType": "DB",
-              "jsonPathKeys": [
-                " workOrdersTable.pageSize ",
-                " (workOrdersTable.pageNo - 1) * workOrdersTable.pageSize ",
-                "selectAgent.selectedOptionValue"
-              ],
-              "timeoutInMillisecond": 10000
-            }
-          ],
-          [
-            {
-              "id": "Admin_Query4",
-              "name": "Query4",
-              "confirmBeforeExecute": false,
-              "pluginType": "DB",
-              "jsonPathKeys": [
-                "selectAgent.selectedOptionValue"
               ],
               "timeoutInMillisecond": 10000
             }

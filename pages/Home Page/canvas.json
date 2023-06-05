@@ -1896,16 +1896,6 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Home Page_getWorkOrders",
-              "name": "getWorkOrders",
-              "confirmBeforeExecute": false,
-              "pluginType": "DB",
-              "jsonPathKeys": [],
-              "timeoutInMillisecond": 10000
-            }
-          ],
-          [
-            {
               "id": "Home Page_JSObject1.run",
               "name": "JSObject1.run",
               "collectionId": "Home Page_JSObject1",

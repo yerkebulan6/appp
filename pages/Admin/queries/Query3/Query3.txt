@@ -1,1 +1,0 @@
-select * from yerkebulan.appsmithuserdata2 where firstname = {{selectAgent.selectedOptionValue}} limit {{ workOrdersTable.pageSize }} offset {{ (workOrdersTable.pageNo - 1) * workOrdersTable.pageSize }};
